@@ -5,3 +5,4 @@ Emel Tuğçe KARA - 211015010
 Riad MEMMEDLİ - 211015082
 
 When will u share the report?
+Report is inside the assignment folder
