@@ -4,5 +4,5 @@ Dataset Link: https://zenodo.org/records/7348493/files/DNP3_Intrusion_Detection_
 - Emel Tuğçe KARA - 211015010
 - Riad MEMMEDLİ - 211015082
 
-When will u share the report?
-Report is inside the assignment folder
+
+# Graded 100/100 Mennan Guder
