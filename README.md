@@ -32,10 +32,6 @@ The dataset used in this project is the **CIC-DNP3 2023 Intrusion Detection Data
 ├── model_train2.py # Full ML pipeline: preprocessing, training, evaluation
 ├── README.md # Project documentation
 
-yaml
-Copy
-Edit
-
 ---
 
 ## 🧪 Machine Learning Models
