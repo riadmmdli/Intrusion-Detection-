@@ -100,10 +100,11 @@ Ensure the raw CSV folders are structured correctly in the dataset root path, th
 
 ```bash
 python DataPrepocessing.py
+```
 This script reads and merges all labeled CSVs into DNP3_Merged_Dataset.csv.
-```
+
 Step 2: Train and Evaluate Models
-```
+```bash
 python model_train2.py
 ```
 This script handles:
