@@ -24,14 +24,14 @@ The dataset used in this project is the **CIC-DNP3 2023 Intrusion Detection Data
 ---
 
 ## ⚙️ Project Structure
-
+```
 📦 DNP3-Intrusion-Detection
 ├── .gitignore # Ignores the final merged dataset
 ├── DNP3_Merged_Dataset.csv # Final processed dataset (ignored from Git)
 ├── DataPrepocessing.py # Script to merge and label raw dataset folders
 ├── model_train2.py # Full ML pipeline: preprocessing, training, evaluation
 ├── README.md # Project documentation
-
+```
 ---
 
 ## 🧪 Machine Learning Models
