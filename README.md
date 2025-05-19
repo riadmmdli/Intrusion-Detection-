@@ -103,21 +103,20 @@ python DataPrepocessing.py
 This script reads and merges all labeled CSVs into DNP3_Merged_Dataset.csv.
 ```
 Step 2: Train and Evaluate Models
-bash
-Copy
-Edit
+```
 python model_train2.py
+```
 This script handles:
 
-Feature selection
+- Feature selection
 
-Label encoding
+- Label encoding
 
-Data splitting
+- Data splitting
 
-Training 3 classifiers
+- Training 3 classifiers
 
-Plotting evaluation metrics
+- Plotting evaluation metrics
 
 👥 Contributors
 Emel Tuğçe Kara – 211015010
