@@ -89,7 +89,7 @@ Each model is evaluated using:
 
 🎯 These scores highlight the effectiveness of ensemble models like Random Forest for multi-class intrusion detection tasks.
 
-Note: Bar plots and confusion matrices are displayed during training automatically.
+**Note:** Bar plots and confusion matrices are displayed during training automatically.
 
 ---
 
@@ -103,7 +103,7 @@ python DataPrepocessing.py
 ```
 This script reads and merges all labeled CSVs into DNP3_Merged_Dataset.csv.
 
-Step 2: Train and Evaluate Models
+### Step 2: Train and Evaluate Models
 ```bash
 python model_train2.py
 ```
@@ -119,7 +119,7 @@ This script handles:
 
 - Plotting evaluation metrics
 
-👥 Contributors
+## 👥 Contributors
 Emel Tuğçe Kara – 211015010
 
 Riad Memmedli – 211015082
